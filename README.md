@@ -13,3 +13,6 @@
 - 今天早上八点就起来了，原定应该是九点50，起来玩手机聊天去了，很不应该，十点半到的图书馆
 - 上午过了一遍昨天看的Java基础，额外看了Java集合部分——相见恨晚，小林coding
 - 注意到hacker news的rank第一文章是Erasure Coding for Distributed Systems  是分布式系统的内容，值得找时间去看看https://transactional.blog/blog/2024-erasure-coding
+- 今天下午效率还行，睡完午觉都两点半了，然后又额外吃了午饭，外加摆了一小伙儿，但是仍然看完了两章半，并发+虚拟机+部分spring
+- 晚上完成了spring的全部，摆了半小时大约，没咋吃饭，中午的太腻了。
+- 现在22.05开始看mysql，希望可以看完，还剩mysql+redis+计网
