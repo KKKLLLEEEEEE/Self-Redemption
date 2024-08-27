@@ -12,4 +12,4 @@
 - 小林coding咱们真是相见恨晚
 - 今天早上八点就起来了，原定应该是九点50，起来玩手机聊天去了，很不应该，十点半到的图书馆
 - 上午过了一遍昨天看的Java基础，额外看了Java集合部分——相见恨晚，小林coding
-- 注意到hacker news的rank第一文章是Erasure Coding for Distributed Systems  是分布式系统的内容，值得找时间去看看
+- 注意到hacker news的rank第一文章是Erasure Coding for Distributed Systems  是分布式系统的内容，值得找时间去看看https://transactional.blog/blog/2024-erasure-coding
