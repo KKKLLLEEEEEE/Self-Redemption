@@ -283,3 +283,11 @@
 
 ### 2024.12.12（）
 - 23.10，顺风车项目开始
+- 周报：
+1、通过docker-compose拉起五个服务（把docker所有文件放到单独的文件夹（temp会被定期清除）docker-compose up -d启动服务）
+2、9006端口设置minIO后台权限 
+3、新建普通工程项目（非Spring工程），通过git拉取仓库代码。然后将hitch-dev模块作为根目录打开（不作为根目录maven可能识别不出来）
+4、后端代码中所有模块的resources目录下的bootstrap和application模块下的ip全部改为自己ip，然后进入每个模块的application.java下手动启动项目（比如我的storage模块就没有被maven识别出来，我是手动启动的）
+5、下载openResty，启动起来之后，注册账号，然后通过docker exec -it hitch-mysql bash进入到数据库，去hitch数据库的t_account表查看是否有注册的信息。有了应该就能正常登录
+6、git add .    git commit到本地仓库
+- 
